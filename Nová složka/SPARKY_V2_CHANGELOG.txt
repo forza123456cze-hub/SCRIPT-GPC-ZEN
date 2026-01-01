@@ -1,0 +1,124 @@
+================================================================================
+                            SPARKY AIM V2 - CHANGELOG
+================================================================================
+
+Version: 2.0
+Release Date: July 2025
+Author: AAGGS.COM
+
+================================================================================
+                              NEW FEATURES
+================================================================================
+
+🎯 TARGET PREDICTION SYSTEM
+• NEW: Predictive aim assistance that leads moving targets
+• Automatically predicts enemy movement based on recent aim changes
+• Only activates when ADS (Aim Down Sights)
+• Toggle ON/OFF from main menu
+
+🎛️ SENSITIVITY PROFILES
+• NEW: Three distinct sensitivity profiles for different situations
+• PRECISION: Lower sensitivity for long-range accuracy
+• BALANCED: Default balanced settings
+• COMBAT: Higher sensitivity for close-quarters combat
+• Easy profile switching from main menu
+
+🎮 ENHANCED DEADZONE/ANTI-SHAKE
+• NEW: Adjustable deadzone filter to eliminate stick drift
+• Filters out unwanted small movements from both sticks
+• Reduces aim shake and improves precision
+• Adjustable deadzone value (0-30)
+• Applied to both movement (left stick) and aim (right stick)
+
+================================================================================
+                              UI/UX IMPROVEMENTS
+================================================================================
+
+📱 MODERN DASHBOARD DESIGN
+• Complete dashboard redesign
+• Clean, modern layout with white text on black background
+• Updated branding: "SPARKY V2" and "AAGGS.COM"
+• Enhanced version indicator: "ENHANCED VERSION"
+• Real-time status display: "ACTIVE" or "KILLED"
+
+🔄 IMPROVED KILLSWITCH SYSTEM
+• NEW: Proper toggle functionality (L2 + Share)
+• Single button combination to turn script on/off
+• Visual feedback with LED colors (Red = Killed, Blue = Active)
+• Automatic screen refresh when toggling states
+• No more multiple activation methods - simplified control
+
+🖥️ SCREENSAVER IMPLEMENTATION
+• NEW: Animated screensaver after 30 seconds of inactivity
+• Bouncing "AAGGS.COM" text animation
+• Resumes on any button input
+• Prevents OLED screen burn-in
+• Smooth animation with proper boundary detection
+
+🎨 MENU SYSTEM ENHANCEMENTS
+• Cleaner menu layouts with better text alignment
+• Removed redundant text and clutter from menus
+• Improved Target Prediction menu (ON/OFF toggle only)
+• Simplified Sensitivity Profile menu (profile selection only)
+• Better visual hierarchy and readability
+
+================================================================================
+                              TECHNICAL IMPROVEMENTS
+================================================================================
+
+⚡ PERFORMANCE OPTIMIZATIONS
+• Improved code organization with clear section headers
+• Better variable management and memory usage
+• Optimized input processing pipeline
+• Enhanced stick input filtering and processing
+
+🔧 CODE QUALITY
+• Comprehensive inline documentation and comments
+• Consistent code formatting and indentation
+• Better error handling and edge case management
+• Improved function organization and structure
+
+🎯 AIM ASSISTANCE ENHANCEMENTS
+• Enhanced Polar Aim system with better precision
+• Improved Tracker system for movement-based assistance
+• Better Anti-Recoil control with vertical and horizontal compensation
+• More responsive and accurate aim assistance algorithms
+
+================================================================================
+                              BUG FIXES
+================================================================================
+
+🐛 GENERAL FIXES
+• Fixed OLED display artifacts and pixel glitches
+• Resolved menu text overlap issues
+• Fixed screen refresh problems when toggling features
+• Corrected LED feedback inconsistencies
+• Fixed menu navigation edge cases
+
+🎮 CONTROLLER COMPATIBILITY
+• Improved PS4/PS5 controller support
+• Better button mapping and input handling
+• Enhanced stick drift compensation
+• More reliable input detection and processing
+
+
+================================================================================
+                              USAGE INSTRUCTIONS
+================================================================================
+
+🎮 BASIC CONTROLS
+• L2 + Share: Toggle script ON/OFF
+• LT + Menu: Open main menu
+• D-Pad: Navigate menus
+• X: Enter edit mode
+• Circle: Exit menu
+• Square: Quick actions (context dependent)
+
+🎯 NEW FEATURES USAGE
+• Target Prediction: Enable in menu, works automatically when ADS
+• Sensitivity Profiles: Select profile in menu, affects all aim input
+• Deadzone: Adjust in menu to eliminate stick drift
+• Screensaver: Activates automatically after 30 seconds
+
+Have fun 
+AAGG Team

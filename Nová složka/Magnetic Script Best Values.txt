@@ -1,0 +1,74 @@
+**SENSITIVITY:**
+
+**Horizontal Stick Sensitivity**: 3.25
+**Vertical Stick Sensitivity**: 3:25
+
+**You are not obliged to use the same sensitivity, you can continue to use your own sensitivity.**
+
+**DEADZONE:**
+
+**Left Stick Min**: 5
+**Left Stick Max**: 60
+**Right Stick Min**: 5
+**Right Stick Max**: 100
+**Left Trigger**: 5
+**Right Trigger**: 5
+
+
+**If your screen shakes a little, if that bothers you, use these deadzones ⬇️**
+
+**Left Stick Min**: 10
+**Left Stick Max**: 60
+**Right Stick Min**: 10
+**Right Stick Max**: 100
+**Left Trigger**: 10
+**Right Trigger**:10
+
+**This is the perfect setup for the script and tested! If you play with deadzone above 10, just increase the aim assist values.**
+
+‼️ **IMPORTANT SETTINGS:**
+
+**ADS Sensitivity Transition Timing**: Gradual
+**3rd Person ADS Correction Type**: Assist
+**AIM RESPONSE CURVE TYPE**: DINAMIC
+**Aim Response Curve Slope Scale**: 0.75
+
+
+
+🎯**BEST VALUE AIM ASSIST: **
+
+
+**MAG AIM: ON**
+
+**MAG SAMP**: 10
+**MAG BOOST**: 12
+**AIM PERFECT**: 7
+**CORRECTION**: 60
+
+
+**MAG ABUSE: ON**
+
+**AIM BOOST2**: 12
+**AIM PERFECT2**: 7
+**STR**: 60
+
+
+**MAG PERFECT: ON**
+
+**SIZE**: 10
+**TIME**: 20
+
+
+**TRACKER MAG**: ON
+
+**AIM STR**: 15
+**TIME**: 25
+
+
+**SNIPER AIM: ON**
+**HS AIM: ON**
+
+
+‼️**IMPORTANT**
+
+**If your screen starts shaking, just increase the values ​​of your DEADZONE, increase the values ​​by 2 and keep testing, and you will see that your screen will stop shaking.** ‼️
